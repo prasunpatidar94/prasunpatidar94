@@ -6,11 +6,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?
   font=Fira+Code&size=22&pause=1000&color=2F80ED&
-  center=true&vCenter=true&width=700&
+  center=true&vCenter=true&width=800&
   lines=Senior+Java+Developer;
-  Spring+Boot+%7C+Microservices+Engineer;
+  Spring+Boot+%7C+Microservices;
   Kafka+%7C+GCP+%7C+Docker+%7C+Kubernetes;
-  Building+Scalable+Backend+Systems" />
+  Writing+Clean+%26+Scalable+Backend+Code" />
 </p>
 
 ---
@@ -18,19 +18,21 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ## 🧑‍💻 About Me
 
 🚀 **Senior Java Developer** with 5+ years of experience building  
-**scalable, secure, and cloud-native applications** in banking and enterprise domains.
+**scalable, resilient, and cloud-native applications** in banking and enterprise domains.
 
 - 💼 Senior System Engineer at **IBM India**
-- ☕ Strong expertise in **Java, Spring Boot & Microservices**
+- ☕ Java | Spring Boot | Microservices
 - ☁️ **Google Cloud Certified – Associate Cloud Engineer**
 - 🔁 Event-driven architecture using **Kafka & Apache Flink**
-- 📦 Containerized deployments with **Docker & Kubernetes (GKE)**
-- 🏦 Strong domain experience in **Banking & Financial Systems**
-- 🌱 Currently learning **Java 17/21, System Design & Cloud Architecture**
+- 📦 Docker & Kubernetes (GKE)
+- 🏦 Banking & Financial Systems experience
+- 🌱 Currently exploring **Java 17/21, System Design & Cloud Architecture**
 
 ---
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
 ---
 
@@ -45,7 +47,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ### Cloud & DevOps
 - Google Cloud Platform (GKE, Cloud Run, Pub/Sub, Cloud SQL)
 - Docker, Kubernetes
-- Jenkins, CI/CD Pipelines
+- Jenkins, CI/CD
 
 ### Messaging & Streaming
 - Kafka
@@ -74,17 +76,15 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ### 🔹 Finance Data Management (Banking)
 - Spring Boot Microservices for real-time financial data processing
-- Apache Flink for streaming pipelines
+- Apache Flink streaming pipelines
 - Workflow automation using Airflow & Automic
-- Deployed on **Google Cloud Platform**
+- Cloud-native deployment on **GCP**
 
 ### 🔹 Modern Banking Platform
 - Microservices-based banking system
-- Kafka for event-driven communication
-- Dockerized deployments using OpenShift
-- Improved scalability, resilience & transaction reliability
-
-*(More real-world projects coming soon 🚧)*
+- Kafka-driven event architecture
+- Dockerized deployments
+- High availability & fault tolerance
 
 ---
 
@@ -93,14 +93,38 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-- 💻 **GitHub:** https://github.com/prasunpatidar94  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/prasun-patidar-041454114/  
-- 📧 **Email:** prasunpatidar94@gmail.com  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=prasunpatidar94"
+    alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunpatidar94&layout=compact"
+    alt="Top Languages" />
+</p>
 
 ---
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+## 🌐 Connect With Me
 
-⭐ **If you like my work, feel free to star my repositories!**
+- 💻 GitHub: https://github.com/prasunpatidar94  
+- 💼 LinkedIn: https://www.linkedin.com/in/prasun-patidar-041454114/  
+- 📧 Email: prasunpatidar94@gmail.com  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
+</p>
+
+⭐ *If you like my work, feel free to star my repositories!* 🚀
