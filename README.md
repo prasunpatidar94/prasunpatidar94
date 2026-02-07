@@ -96,11 +96,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunpatidar94&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunpatidar94" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasunpatidar94" />
 </p>
 
 ---
