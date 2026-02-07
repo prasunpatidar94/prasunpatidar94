@@ -94,14 +94,23 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&theme=default" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&count_private=true&include_all_commits=true"
+    alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasunpatidar94" />
+  <img 
+    src="https://streak-stats.demolab.com?user=prasunpatidar94"
+    alt="GitHub Streak Stats" />
 </p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunpatidar94&layout=compact"
+    alt="Top Languages" />
+</p>
+
 
 ---
 
