@@ -8,7 +8,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
   font=Fira+Code&size=22&pause=1000&color=2F80ED&
   center=true&vCenter=true&width=700&
   lines=Senior+Java+Developer;
-  Spring+Boot+%7C+Microservices+Architect;
+  Spring+Boot+%7C+Microservices+Engineer;
   Kafka+%7C+GCP+%7C+Docker+%7C+Kubernetes;
   Building+Scalable+Backend+Systems" />
 </p>
@@ -21,11 +21,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 **scalable, secure, and cloud-native applications** in banking and enterprise domains.
 
 - 💼 Senior System Engineer at **IBM India**
-- ☕ Expertise in **Java, Spring Boot & Microservices**
+- ☕ Strong expertise in **Java, Spring Boot & Microservices**
 - ☁️ **Google Cloud Certified – Associate Cloud Engineer**
-- 🔁 Event-driven systems using **Kafka & Apache Flink**
-- 📦 Containerized deployments using **Docker & Kubernetes (GKE)**
-- 🏦 Strong domain knowledge in **Banking & Financial Systems**
+- 🔁 Event-driven architecture using **Kafka & Apache Flink**
+- 📦 Containerized deployments with **Docker & Kubernetes (GKE)**
+- 🏦 Strong domain experience in **Banking & Financial Systems**
 - 🌱 Currently learning **Java 17/21, System Design & Cloud Architecture**
 
 ---
@@ -76,11 +76,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 - Spring Boot Microservices for real-time financial data processing
 - Apache Flink for streaming pipelines
 - Workflow automation using Airflow & Automic
-- Cloud-native deployment on **GCP**
+- Deployed on **Google Cloud Platform**
 
 ### 🔹 Modern Banking Platform
 - Microservices-based banking system
-- Kafka for event-driven architecture
+- Kafka for event-driven communication
 - Dockerized deployments using OpenShift
 - Improved scalability, resilience & transaction reliability
 
@@ -94,6 +94,7 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&count_private=true&include_all_commits=true"
@@ -105,19 +106,14 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
     src="https://streak-stats.demolab.com?user=prasunpatidar94"
     alt="GitHub Streak Stats" />
 </p>
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasunpatidar94&layout=compact"
-    alt="Top Languages" />
-</p>
-
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **prasunpatidar94@gmail.com**
-- 💼 LinkedIn: *(add your LinkedIn profile link)*
-- 💻 GitHub: [github.com/sunpatidar94](https://github.com/sunpatidar94)
+
+- 💻 **GitHub:** https://github.com/prasunpatidar94  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/prasun-patidar-041454114/  
+- 📧 **Email:** prasunpatidar94@gmail.com  
 
 ---
 
