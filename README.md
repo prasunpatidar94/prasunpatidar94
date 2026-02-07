@@ -96,15 +96,17 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&count_private=true&include_all_commits=true"
-    alt="GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=prasunpatidar94&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="Prasun Patidar GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=prasunpatidar94"
-    alt="GitHub Streak Stats" />
+  <img
+    src="https://streak-stats.demolab.com?user=prasunpatidar94&cache_seconds=1800"
+    alt="Prasun Patidar GitHub Streak"
+  />
 </p>
 
 ---
