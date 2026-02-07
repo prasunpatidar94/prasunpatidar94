@@ -94,6 +94,11 @@ src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 ---
 
 ## 📊 GitHub Stats
+<p align="center">
+  <img src="https://img.shields.io/github/stars/prasunpatidar94?style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/prasunpatidar94?style=for-the-badge" />
+  <img src="https://img.shields.io/github/commit-activity/y/prasunpatidar94?style=for-the-badge" />
+</p>
 
 <p align="center">
   <img
